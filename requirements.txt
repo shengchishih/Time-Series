@@ -1,0 +1,15 @@
+pandas==1.5.3
+numpy==1.25.2
+scipy==1.10.1
+scikit-learn==1.2.2
+python-dotenv==1.0.0
+prophet==1.1.5
+seaborn==0.13.1
+plotly
+jupyterlab==4.1.4
+tensorflow==2.16.1
+tensorflow-datasets==4.9.4
+matplotlib==3.8.3
+ipywidgets==8.1.1
+pooch==1.8.1
+pytorch==2.7.0
